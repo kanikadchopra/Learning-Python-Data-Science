@@ -8,7 +8,7 @@ b) Computations and Aggregations on NumPy Arrays:
 i. uFuncs - arithmetic, absolute value, trigonometric functions, exponents and logarithms, specialized ufuncs (from scipy import special)
 ii. Advanced uFunc features - specifying output, aggregates, outer products
 iii. Aggregate Functions - summarizing values in an array, min, max, multi dimensional aggregates
-# Project: https://github.com/kanikadchopra/President-Height-Data-Analysis
+- Project: https://github.com/kanikadchopra/President-Height-Data-Analysis
 iv: Broadcasting on Arrays - 
 c) Comparisons, Masks and Boolean Logic
 d) Fancy Indexing
