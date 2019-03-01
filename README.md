@@ -4,13 +4,13 @@ This is filled with examples I have completed from the Python Data Science Handb
 ## Topics Covered:
 1. Numpy
   * Basics of Numpy
-    *Creating arrays, Attributes, Indexing, Slicing, Reshaping, Joining and Splitting Arrays 
+    * Creating arrays, Attributes, Indexing, Slicing, Reshaping, Joining and Splitting Arrays 
   * Computations and Aggregations
-    *uFuncs: arithmetic, absolute value, trigonometric functions, exponents and logarithms, specialized ufuncs (from scipy import special)
-    *Advanced uFunc Features: specifying output, aggregates and outer products
-    *Aggregate Functions: summarizing values, min, max, multi-dimensional aggregates
-      * [Basic Data Analysis Project: US President Heights](https://github.com/kanikadchopra/President-Height-Data-Analysis)
-    *Broadcasting on Arrays: rules of broadcasting, centering an array, plotting a two-dimensional function
+    * uFuncs: arithmetic, absolute value, trigonometric functions, exponents and logarithms, specialized ufuncs (from scipy import special)
+    * Advanced uFunc Features: specifying output, aggregates and outer products
+    * Aggregate Functions: summarizing values, min, max, multi-dimensional aggregates
+       * [Basic Data Analysis Project: US President Heights](https://github.com/kanikadchopra/President-Height-Data-Analysis)
+    * Broadcasting on Arrays: rules of broadcasting, centering an array, plotting a two-dimensional function
   * Comparisons, Masks and Boolean Logic
   * Fancy Indexing
   * Sorting Arrays 
@@ -21,16 +21,16 @@ This is filled with examples I have completed from the Python Data Science Handb
   * Data Indexing & Selection
   * Operating on Data in pandas
   * Missing Data
-    *Find a data set and complete an example with this 
+    * Find a data set and complete an example with this 
   * Hierarchical Indexing
   * Combining Datasets
     *Concat and Append
     *Merge and Join
   * Pivot Tables
-    *Another example with data set
+    * Another example with data set
   * Vectorized String Operations
   * Time Series
-    *Example to demonstrate skils
+    * Example to demonstrate skils
   * High-Performance pandas: eval() and query()
     
 
