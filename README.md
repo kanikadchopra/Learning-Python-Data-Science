@@ -1,5 +1,5 @@
 # Learning-Python-Data-Science
-This is filled with examples I have completed from the Python Data Science Handbook, as well as my own examples to test out the tools I was learning. For many of the concepts I have learned, I have also attached links to the GitHub projects I completed to test out my knowledge with real-life examples. 
+This is filled with examples I have completed from the Python Data Science Handbook, as well as my own examples to test out the tools I was learning. This shows the concepts that I have self-taught myself to continue building my data science knowledge. For many of the concepts I have learned, I have also attached links to the GitHub projects I completed to test out my knowledge with real-life examples. 
 
 ## Topics Covered:
 1. Numpy
