@@ -1,36 +1,38 @@
 # Learning-Python-Data-Science
 This is filled with examples I have completed from the Python Data Science Handbook, as well as my own examples to test out the tools I was learning. For many of the concepts I have learned, I have also attached links to the GitHub projects I completed to test out my knowledge with real-life examples. 
 
-# Topics Covered:
-1. NumPy
-a) Basics of NumPy: Creating arrays, attributes, indexing, slicing, reshaping, joining and splitting arrays
-b) Computations and Aggregations on NumPy Arrays: 
-i. uFuncs - arithmetic, absolute value, trigonometric functions, exponents and logarithms, specialized ufuncs (from scipy import special)
-ii. Advanced uFunc features - specifying output, aggregates, outer products
-iii. Aggregate Functions - summarizing values in an array, min, max, multi dimensional aggregates
-- Project: https://github.com/kanikadchopra/President-Height-Data-Analysis
-iv: Broadcasting on Arrays - 
-c) Comparisons, Masks and Boolean Logic
-d) Fancy Indexing
-e) Sorting Arrays
-f) Structured Data: NumPy's Structured Arrays 
+## Topics Covered:
+1. Numpy
+  * Basics of Numpy
+    *Creating arrays, Attributes, Indexing, Slicing, Reshaping, Joining and Splitting Arrays 
+  * Computations and Aggregations
+    *uFuncs: arithmetic, absolute value, trigonometric functions, exponents and logarithms, specialized ufuncs (from scipy import special)
+    *Advanced uFunc Features: specifying output, aggregates and outer products
+    *Aggregate Functions: summarizing values, min, max, multi-dimensional aggregates
+      * [Basic Data Analysis Project: US President Heights](https://github.com/kanikadchopra/President-Height-Data-Analysis)
+    *Broadcasting on Arrays: rules of broadcasting, centering an array, plotting a two-dimensional function
+  * Comparisons, Masks and Boolean Logic
+  * Fancy Indexing
+  * Sorting Arrays 
+  * Structured Data: NumPy's Structured Arrays
 
 # Plan To Complete by May 2019:
 2. pandas
-a) Data indexing and selection
-b) Operating on Data in pandas
-c) Missing Data 
-* Find a data set and complete an example with this 
-d) Hierarchical Indexing 
-e) Combining Datasets
-i. Concat and Append
-ii. Merge and Join
-f) Pivot Tables
-* Another example with data set 
-h) Vectorized String Operatons 
-i) Time Series
-* Another example to demonstrate skills
-j) Hihg-Performance pandas: eval() and query()
+  * Data Indexing & Selection
+  * Operating on Data in pandas
+  * Missing Data
+    *Find a data set and complete an example with this 
+  * Hierarchical Indexing
+  * Combining Datasets
+    *Concat and Append
+    *Merge and Join
+  * Pivot Tables
+    *Another example with data set
+  * Vectorized String Operations
+  * Time Series
+    *Example to demonstrate skils
+  * High-Performance pandas: eval() and query()
+    
 
 3. matplotlib
 a) Line Plots
