@@ -12,6 +12,7 @@ This is filled with examples I have completed from the Python Data Science Handb
        * [Basic Data Analysis Project: US President Heights](https://github.com/kanikadchopra/President-Height-Data-Analysis)
     * Broadcasting on Arrays: rules of broadcasting, centering an array, plotting a two-dimensional function
   * Comparisons, Masks and Boolean Logic
+       * [Seattle Precipitation Project] 
   * Fancy Indexing
   * Sorting Arrays 
   * Structured Data: NumPy's Structured Arrays
