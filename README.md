@@ -15,10 +15,10 @@ This is filled with examples I have completed from the Python Data Science Handb
        * [Seattle Precipitation Project] 
   * Fancy Indexing
   * Sorting Arrays 
-  * Structured Data: NumPy's Structured Arrays
-
-# Plan To Complete by May 2019:
+  * Structured Arrays
+  
 2. pandas
+  * pandas Objects 
   * Data Indexing & Selection
   * Operating on Data in pandas
   * Missing Data
@@ -34,7 +34,7 @@ This is filled with examples I have completed from the Python Data Science Handb
     * Example to demonstrate skils
   * High-Performance pandas: eval() and query()
     
-
+# Plan To Complete by May 2019:
 3. matplotlib
  * Line Plots
  * Scatter Plots
